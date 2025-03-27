@@ -1,5 +1,7 @@
 👋 Hi, I’m Sowndarya S
+
 🚀 About Me
+
 🎯 Aspiring Data Analyst with expertise in Power BI, MySQL, Python, and Excel. Passionate about data visualization, business intelligence, and solving real-world problems using data-driven insights.
 
 👀 Interests
